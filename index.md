@@ -1,6 +1,6 @@
 ## Hola,  Bienvenido a mi  Página 
 ### Me llamo Edwin
-Me gusta mucho jufa
+Me gusta mucho jugar Futbol, me gustan los videojuegos, mi pasatiempo favorito es salir a caminar o pensar y escribrir, me gusta hacer cratividades, me gusta ver toda la naturaleza y preguntarme cosas sobre ella y ver como es tan magnifica, me gustan mucho los postres, me  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
