@@ -1,8 +1,8 @@
 ## Hola,  Bienvenido a mi  Página 
 ### Me llamo Edwin
-Me gusta mucho jugar Futbol, me gustan los videojuegos, mi pasatiempo favorito es salir a caminar o pensar y escribrir, me gusta hacer cratividades, me gusta ver toda la naturaleza y preguntarme cosas sobre ella y ver como es tan magnifica, me gustan mucho los postres, me  
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Me gusta mucho jugar Futbol, me gustan los videojuegos, mi pasatiempo favorito es salir a caminar o pensar y escribrir, me gusta hacer cratividades, me gusta ver toda la naturaleza y preguntarme cosas sobre ella y ver como es tan magnifica, me gustan mucho los postres, me interesa mucho la historia, ver todo lo increible que hicieron los personajes historicos y ver como lucharon por su libertad o que cambiaron el rumbo de la historia por cosas buenas o malas, me gustan demasiado los autos clasicos y deportivos, es muy interesante ver como hacen el tunning de un vehiculo.   
+### Futbol
+En el futbol me encanta jugar de portero y delantero. La porteria es mi pasión por los lances o buenas intervenciones y escuchar el publico enloquecer y ver su reacción que nose pueden creer que haya pasado. 
 
 ### Markdown
 
