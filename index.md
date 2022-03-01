@@ -12,9 +12,9 @@ Me gustan demasiado los videojuegos con tematica de guerra, acción, aventuras, 
 3. Fornite 
 4. GTA 
 5. Gears og War
-6. Need for Speead, Forza Horizon,  entre otros juegos de carreras.
+6. Need for Speead, Forza Horizon,  entre otros juegos de carreras
 
-!(https://www.welivesecurity.com/wp-content/uploads/2021/08/Ataques-compa%C3%B1%C3%ADas-videojuegos-por-qu%C3%A9-son-blanco-atractivo.jpg)
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GW-pVnZPuN4D3yesMds6Qmh5A4QXn2zC-g&usqp=CAU)
 
 Mis Habilidades Sociales 
 Me gusta escuchar a las personas, ser sincero, dar mi apoyo, ser agradecido y comprender las situaciones
