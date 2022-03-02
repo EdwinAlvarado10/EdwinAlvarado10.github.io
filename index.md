@@ -1,4 +1,4 @@
-[Mis Gustos](./Mi_nombre_es_Edwin.md)[Fútbol](Fútbol_.md)[Videojuegos](Videojuegos_.md)
+[Mis Gustos](./Mis_Gustos.md)
 
 ### Mi nombre es Edwin 
 Me gusta mucho jugar Futbol, me gustan los videojuegos, mi pasatiempo favorito es salir a caminar o pensar y escribrir, me gusta hacer cratividades, me gusta ver toda la naturaleza y preguntarme cosas sobre ella y ver como es tan magnifica, me gustan mucho los postres, me interesa mucho la historia, ver todo lo increible que hicieron los personajes historicos y ver como lucharon por su libertad o que cambiaron el rumbo de la historia por cosas buenas o malas, me gustan demasiado los autos clasicos y deportivos, es muy interesante ver como hacen el tunning de un vehiculo.   
