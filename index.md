@@ -20,7 +20,7 @@ Me gustan demasiado los videojuegos con tematica de guerra, acción, aventuras, 
 3. Fornite 
 4. GTA
 5. Gears of War
-6. Need for Speead, Forza Horizon,  entre otros juegos de carreras
+6. Need for Speead, Forza Horizon, entre otros juegos de carreras
 
 ![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GW-pVnZPuN4D3yesMds6Qmh5A4QXn2zC-g&usqp=CAU)
 
