@@ -1,5 +1,5 @@
 [Mis Gustos](./Mis_Gustos.md)
-[Futbol](./Fútbol_.md)
+[Futbol](./Futbol_.md)
 [Videojuegos](./Videojuegos_.md)
 [Mis Habilidades Sociales](./Mis_Habilidades_Sociales.md)
 [Mis Habilidades Tecnológicas](./Mis_Habilidades_Tecnológicas.md)
