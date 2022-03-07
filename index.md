@@ -27,3 +27,9 @@ Me gusta buscar información, leer sobre ello, me gusta tener un diseño en mi m
 
 ###  Mi Experiencia Laboral
 Ayudante de recepción, creación y secretario
+
+
+| Encabezado 1 | Encabezado 2 |
+| ------------ | ------------ |
+| Elemento 1   | Contenido 1  |
+| Elemento 2   | Contenido 2  |
