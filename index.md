@@ -29,7 +29,9 @@ Me gusta buscar información, leer sobre ello, me gusta tener un diseño en mi m
 Ayudante de recepción, creación y secretario
 
 
-| Encabezado 1 | Encabezado 2 |
-| ------------ | ------------ |
-| Elemento 1   | Contenido 1  |
-| Elemento 2   | Contenido 2  |
+| Mis Gustos   | ¿Qué es lo que me gusta |
+| ------------ | ----------------------- |
+| Videojuegos  | Assassins Cred, FiFa, GTA, Fortnite, Gears of War, Need for Speead |
+| Fútbol       | Me gusta jugar de portero, medio o delantero |
+| Peliculas    | Me gustan las del Hombre Araña, Venom, algunas de accion o aventuras |
+
